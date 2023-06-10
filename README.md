@@ -83,12 +83,6 @@ I'm **Isuru Sajith Rathnayaka**. A **Full Stack Developer** in Sri Lanka. I am a
 
 
 
-## MY GITHUB STATS
-
-[![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isuru&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
-
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
 
