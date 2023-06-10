@@ -8,8 +8,7 @@
 
 ## 👦 ABOUT ME
 
-I'm **Isuru Sajith Rathnayaka**. A **Full Stack Developer** in Sri Lanka. I live up to enhance the living standards and business of people around the globe harnessing the cutting-edge technologies in the world.
-Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.  
+I'm **Isuru Sajith Rathnayaka**. A **Full Stack Developer** in Sri Lanka. I am a passionate developer with a love for coding and creating innovative solutions. My primary programming languages are Java and Python, and I enjoy working on Web Development: Building interactive and dynamic websites using HTML, CSS, and JavaScript. Exploring frontend and backend frameworks like React, Angular, Spring,Spring Boot, Node.js, Hibernate, etc..  
 
 ### Contact Me:
 
